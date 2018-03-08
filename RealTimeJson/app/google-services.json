@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1052408351747",
+    "firebase_url": "https://ifyb-qa.firebaseio.com",
+    "project_id": "ifyb-qa",
+    "storage_bucket": "ifyb-qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052408351747:android:3476f54361d772b1",
+        "android_client_info": {
+          "package_name": "com.ifybtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052408351747-gda26llrm0bevoj6vsqj88vsudss7vhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUbUJeVAugBrF70Byjj30iUtXIIXQt3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
